@@ -60,7 +60,7 @@ DB_PASSWORD=your_password_here
 
 ---
 
-## 🐳 Docker Image
+## Docker Image
 
 The application is available as a multi-platform Docker image:
 
