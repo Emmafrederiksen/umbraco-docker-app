@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+.git
+.gitignore
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env*
+appsettings.json
+appsettings.Development.json
